@@ -1,0 +1,22 @@
+# Javascript 2
+
+## for
+
+El ciclo for es una estructura de control en Javascript que se utiliza
+para repetir un bloque de código un número determinado de veces. Se puede 
+usar cualquier tipo de variable para contar, también se puede tener condiciones
+más complejas usando operadores lógicos o comparaciones. Tambipen se puede 
+actualizar de forma distinta , sumando, restando, multiplicando dividiendo, etc.
+Es importante tener en cuenta que cuando se utiliza un ciclo "for", debes 
+asegurarte de que la variabe de contador sea actualizada de manera que la condición
+finalmente se evalúe como falsa, de lo contrario el ciclo se ejecutará de forma infinita
+
+## Operadores lógicos
+
+"&&": Este operador combina dos expresiones lógicas y devuelve "true" solo si ambas
+expresiones son verdaderas
+
+"||": Este operador combina dos expresiones lógicas y devuelve "true" si al menos una
+de las expresiones es verdadera
+
+"!": Este operador invierte el valor lógico de una expresión
