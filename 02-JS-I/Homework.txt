@@ -1,0 +1,38 @@
+# Introducción a Javascript
+
+## Variables 
+
+Una vraiable es un contenedor para almacenar un valor o una expresión. Se utilizan para almacenar 
+datos en un programa para que puedan ser utilizados en operaciones matemáticas o lógicas. Para declarar
+una variable se pueden utilizar las palabras clave "var", "let", "const", seguida del nombre 
+de la variable 
+
+## Strings
+
+Un String (Cadena de caracteres) es un tipo de dato que representa una secuencia de caracteres. 
+Las cadenas se utilizan para almacenar y manipular textos. Pueden contener cualquier carácter, 
+incluyendo letras, numeros, espacios o símbolos. Para declaran una cadena en Javascript, 
+se utiliza comillas simples o comillas dobles alrededor del texto
+
+## Funciones 
+
+Una función es un bloque de código que se puede ejecutar varias veces. Tiene un nombre y puede
+tener parámetros de entrada y un valor de retorno. Las funciones son una de las características
+fundamentales de la programción orientada a objetos y se utiizan para dividir un programa en 
+partes manejables y reutilizables. Para declarar un función en Javascript se utiliza la palabra 
+clave "function" seguida del nombre de la función y un conjunto de paréntesis que pueden contener 
+los parámetros de entrada
+
+## Declaraciones if
+
+esta estructura de control de flujo es la más básica. Se usa para tomar una decisión basada en una 
+condición dada. Si la condición se evalúa como verdadera, se ejecuta el código dentro del bloque 
+"if". Si la condición se evalúa como falsa, se puede utilizar una declaración "else" para ejecutar 
+otro código en su lugar 
+
+## Valores Booleanos
+
+Es un valor Binario (que solamente puede tomar dos valores). Se utilizan para representar el
+resultado de una comparación o para representar el estado de una variable. En Javascript se tienen 
+dos valores Booleanos predefinidos "true" y "false". Estos valores se utilizan para evaluar 
+condiciones en estructuras de control de flujo como "if", "while", "do-while", etc.
